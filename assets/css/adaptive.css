@@ -1,0 +1,359 @@
+@media (max-width: 1200px){
+    .container {
+        width: 1140px;
+    }
+    .card-img-top {
+        max-width: 312px;
+    }
+    .main-sale .sale-title {
+        font-size: 50px;
+    }
+}
+@media (max-width: 1199px){
+    .container {
+        width: 960px;
+    }
+    .main-sale .box-price_old {
+        font-size: 20px;
+        font-weight: 700;
+    }
+    .main-sale .box-price_new {
+        font-size: 36px;
+        font-weight: 700;
+    }
+    .footer-logo {
+        display: none;
+    }
+    .tekst_sverhu_kartinki {
+        font-size: 22px;
+    }
+    .main-sale .sale-title {
+        font-size: 44px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 60px;
+    }
+}
+@media (max-width: 991px){
+    .container {
+        max-width: 720px;
+    }
+    .logo {
+        max-width: 140px;
+    }
+    .search {
+        max-height: 100%;
+        width: 250px;
+    }
+    .westend__item {
+        font-size: 16px;
+    }
+    .main-item {
+        padding-top: 50px;
+    }
+    .main-sale .sale-description {
+        font-size: 20px;
+        padding-top: 35px;
+    }
+    .main-sale .sale-title {
+        font-size: 32px;
+        font-weight: 700;
+        margin-bottom: 45px;
+    }
+    .button {
+        background-color: #212121;
+        color: #fff;
+        font-size: 14px;
+        text-decoration: none;
+        text-transform: uppercase;
+        padding: 15px 23px;
+    }
+    .main-sale .box-price_new {
+        font-size: 31px;
+        margin-top: 17px;
+    }
+    .main-sale .box-price_old {
+        font-size: 20px;
+    }
+    .slider .slick-arrow {
+        display: none;
+    }
+    .tekst_sverhu_kartinki {
+        font-size: 16px;
+        left: 97px;
+    }
+    .slider-popular .slick-arrow {
+        max-width: 40px;
+    }
+    .product-link h5{
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .card-img-top {
+        max-width: 180px;
+    }
+    p.card-price {
+        margin: 5px 0 5px 0;
+        font-size: 16px;
+    }
+    .btn-buy {
+        font-size: 10px;
+        padding: 8px 16px;
+    }
+    .box-icon img {
+        width: 26px;
+        margin-left: 10px;
+    }
+    
+}
+@media (max-width: 772px){
+    .container {
+        width: 100%;
+    }
+    .header {
+        padding: 5px 34px 5px 34px;
+    }
+    .search {
+        max-height: 37px;
+        width: 200px;
+    }
+    .search-field {
+        width: 155px;
+    }
+    .search-icon {
+        margin-top: -13px;
+    }
+    .westend__item {
+        font-size: 16px;
+    }
+    .westend__item img{
+        width: 28px;
+    }
+    .menu-bg {
+        display: none;
+        height: 0;
+        width: 0;
+    }
+    .menu-list {
+        display: none;
+    }
+    .main-sale {
+        padding: 10px 30px 10px 10px;
+    }
+    .main-item {
+        padding-top: 50px;
+    }
+    .main-sale .sale-description {
+        font-size: 20px;
+        padding-top: 66px;
+    }
+    .main-sale .sale-title {
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .slider .slick-arrow.slick-prev {
+        opacity: 0;
+    }
+    .slider .slick-arrow.slick-next {
+        opacity: 0;
+    }
+    .slider-popular .slick-arrow {
+        max-width: 30px;
+    }
+    .slider-popular__title {
+        font-size: 30px;
+    }
+    .footer-logo {
+        display: none;
+    }
+    .main-sale .box-price_new {
+        font-size: 26px;
+        margin-top: 17px;
+    }
+    .main-sale .box-price_old {
+        font-size: 15px;
+    }
+    .product-link h5{
+        margin-bottom: 5px;
+        font-size: 12px;
+    }
+    .card-img-top {
+        max-width: 180px;
+    }
+    p.card-price {
+        margin: 5px 0 5px 0;
+        font-size: 16px;
+    }
+    .btn-buy {
+        font-size: 10px;
+        padding: 8px 16px;
+    }
+    .box-icon img {
+        width: 26px;
+        margin-left: 10px;
+    }
+}
+@media (max-width: 712px) {
+    .tekst_sverhu_kartinki {
+        font-size: 16px;
+        left: 67px;
+    }
+}
+@media (max-width:722px){
+    .collection {
+        display: wrap;
+    }
+    #tekst_sverhu_kartinki {
+        flex: 0 0 100%;
+    }
+}
+@media (max-width: 670px) {
+    .main-sale .sale-description {
+        font-size: 20px;
+        padding-top: 40px;
+    }
+}
+@media (max-width: 656px) {
+    .logo {
+        display: none;
+    }
+    .menu-icon {
+        display: flex;
+    }
+}
+@media (max-width: 610px) {
+    .main-sale .sale-title {
+        font-size: 27px;
+        font-weight: 700;
+    }
+}
+@media (max-width: 575px) {
+    .container {
+        width: 100%;
+    }
+    .logo {
+        display: none;
+    }
+    .tekst_sverhu_kartinki img {
+        flex: 0;
+        width: 100%;
+    }
+    .main-item {
+        padding-top: 8px;
+    }
+    .notice {
+        padding: 35px 0;
+    }
+    .notice-title {
+        font-size: 20px;
+    }
+    .notice-description {
+        font-size: 12px;
+    }
+    .tekst_sverhu_kartinki {
+        font-size: 14px;
+        left: 47px;
+    }
+    .main-sale .sale-description {
+        font-size: 16px;
+        padding-top: 57px;
+    }
+    .main-sale .sale-title {
+        font-size: 25px;
+        font-weight: 700;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+    .product-link h5{
+        margin-bottom: 5px;
+        font-size: 10px;
+    }
+    .box-price {
+        max-width: 150px;
+    }
+    .all-products {
+        text-decoration: none;
+        font-size: 12px;
+    }
+    .card-img-top {
+        max-width: 150px;
+    }
+    p.card-price {
+        margin: 5px 0 5px 0;
+        font-size: 12px;
+    }
+    .btn-buy {
+        font-size: 8px;
+        padding: 6px 14px;
+    }
+    .box-icon img {
+        width: 16px;
+        margin-left: 5px;
+    }
+    .slider-popular .slick-dots button {
+        width: 5px;
+        height: 5x;
+    }
+}
+@media (max-width: 555px) {
+    .container {
+        width: 100%;
+    }
+    .menu-icon {
+        width: 24px;
+    }
+    .search {
+        width: 170px;
+    }
+    .search-field {
+        width: 127px;
+    }
+    .search-icon {
+        height: 15px;
+        width: 15px;
+    }
+    .westend__item img {
+        width: 24px;
+    }
+    .footer-list-title {
+        font-size: 14px;
+    }
+    .footer-list-link {
+        font-size: 12px;
+    }
+}
+@media (max-width: 510px) {
+    .container {
+        width: 100%;
+    }
+    .card-img-top {
+        max-width: 100px;
+    }
+}
+@media (max-width: 477px) {
+    .container {
+        width: 100%;
+    }
+    .header {
+        padding: 5px 10px 5px 10px;
+    }
+    .search {
+        width: 150px;
+    }
+    .search-field {
+        width: 120px;
+        border: 0;
+    }
+    .search-icon {
+        width: 17px;
+        height: 17px;
+        margin-right: 5px;
+        order: 1;
+    }
+    .westend__item {
+        font-size: 14px;
+    }
+    .westend__item img{
+        width: 22px;
+    }
+}
